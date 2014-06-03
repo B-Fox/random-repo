@@ -11,3 +11,7 @@ A place for random bits of code, tests etc.
 
 /* 	Quisque varius placerat luctus. Aliquam egestas congue consequat. Nulla facilisi. Aenean malesuada dui nec arcu ullamcorper, eu consequat risus dapibus. Integer pharetra urna non dui scelerisque lacinia. Nam ultricies dolor ac ligula pulvinar posuere. Sed pharetra at dui vestibulum hendrerit. 
 */
+
+===========
+
+/* confirm correct config */
